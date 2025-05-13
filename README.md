@@ -1,2 +1,1 @@
-# faqru
-for practice purpose
+
